@@ -32,7 +32,6 @@ I love learning new stuff and sharing my knowledge with people. 😋 Outside wor
 ## 🚀 Github Stats
 
 ![Rohits's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rohitcloudsine&count_private=true&show_icons=true&theme=radical&bg_color=#FFFFFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitcloudsine&layout=compact&theme=radical&bg_color=#FFFFFF&hide=jupyter_notebook)
 
  ## 🖥  Technology 
 <p align="center">
